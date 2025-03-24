@@ -1,0 +1,26 @@
+{
+  "extensionName": {
+    "message": "AI Summarizer",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Summarize long articles into key bullet points.",
+    "description": "The description of the extension"
+  },
+  "summarizeButton": {
+    "message": "Summarize",
+    "description": "Button to start summarizing"
+  },
+  "saveButton": {
+    "message": "Save Summary",
+    "description": "Button to save the summary"
+  },
+  "apiKeyMissing": {
+    "message": "API key not set. Please go to settings and add your API key.",
+    "description": "Message when API key is missing"
+  },
+  "summaryError": {
+    "message": "Error summarizing text.",
+    "description": "Message shown when summarizing fails"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "extensionName": {
+    "message": "Resumidor AI",
+    "description": "El nombre de la extensi\u00f3n"
+  },
+  "extensionDescription": {
+    "message": "Resume art\u00edculos largos en puntos clave.",
+    "description": "La descripci\u00f3n de la extensi\u00f3n"
+  },
+  "summarizeButton": {
+    "message": "Resumir",
+    "description": "Bot\u00f3n para empezar a resumir"
+  },
+  "saveButton": {
+    "message": "Guardar Resumen",
+    "description": "Bot\u00f3n para guardar el resumen"
+  },
+  "apiKeyMissing": {
+    "message": "Clave API no establecida. Vaya a configuraci\u00f3n para agregar su clave API.",
+    "description": "Mensaje cuando falta la clave API"
+  },
+  "summaryError": {
+    "message": "Error al resumir el texto.",
+    "description": "Mensaje mostrado cuando la resumen falla"
+  }
+}

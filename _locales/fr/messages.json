@@ -1,0 +1,26 @@
+{
+  "extensionName": {
+    "message": "R\u00e9sum\u00e9 IA",
+    "description": "Le nom de l'extension"
+  },
+  "extensionDescription": {
+    "message": "R\u00e9sumer de longs articles en points cl\u00e9s.",
+    "description": "La description de l'extension"
+  },
+  "summarizeButton": {
+    "message": "R\u00e9sumer",
+    "description": "Bouton pour commencer \u00e0 r\u00e9sumer"
+  },
+  "saveButton": {
+    "message": "Enregistrer le r\u00e9sum\u00e9",
+    "description": "Bouton pour enregistrer le r\u00e9sum\u00e9"
+  },
+  "apiKeyMissing": {
+    "message": "Cl\u00e9 API non d\u00e9finie. Veuillez acc\u00e9der aux param\u00e8tres pour ajouter votre cl\u00e9 API.",
+    "description": "Message lorsque la cl\u00e9 API est manquante"
+  },
+  "summaryError": {
+    "message": "Erreur lors du r\u00e9sum\u00e9 du texte.",
+    "description": "Message affich\u00e9 lorsque le r\u00e9sum\u00e9 \u00e9choue"
+  }
+}
